@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+# AI Sales Assistant for Automotive Companies
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Open Source like mit for now.. I'll maybe do the repo private later 
 
-## Available Scripts
+## Overview
 
-In the project directory, you can run:
+The AI Sales Assistant is a web application designed to help sales teams in the automotive industry generate tailored proposals, conduct market analysis, and gain customer insights using advanced AI and LangGraph. This project leverages React, Tailwind CSS, and LangChain's LangGraph to provide a powerful and intuitive user experience.
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+-   **AI Proposal Generator:** Create customized proposals for automotive companies based on selected services and company details.
+-   **Real-time Research:** Conduct instant research on target companies to gather the latest information.
+-   **Historical Analysis:** Analyze historical data to identify trends and patterns.
+-   **Market Analysis (Coming Soon):** Future feature to analyze market trends and competitor strategies.
+-   **Customer Insights (Under Development):** Future feature to gain deep insights into customer behavior and preferences.
+-   **Lead Generation (Future Release):** Future feature to identify and qualify potential leads.
+-   **PDF Export:** Download generated proposals as PDF documents.
+-   **Copy to Clipboard:** Easily copy proposal text to the clipboard.
+- **Responsive Design:** The application is designed to work seamlessly on various screen sizes.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies Used
 
-### `npm test`
+-   **React:** A JavaScript library for building user interfaces.
+-   **Tailwind CSS:** A utility-first CSS framework for rapid UI development.
+-   **LangChain/LangGraph:** A framework for building applications with large language models.
+-   **jsPDF:** A library for generating PDF documents.
+-   **Webpack:** A module bundler for JavaScript applications.
+- **Node.js:** A JavaScript runtime environment.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Getting Started
 
-### `npm run build`
+### Prerequisites
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+-   Node.js (v18 or later)
+-   npm (or yarn)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1.  Clone the repository:
 
-### `npm run eject`
+    ```bash
+    git clone <repository-url>
+    ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+2.  Navigate to the project directory:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+    ```bash
+    cd auto-assist
+    ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+3.  Install dependencies:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+    ```bash
+    npm install
+    ```
 
-## Learn More
+### Running the Application
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1.  Start the development server:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+    ```bash
+    npm start
+    ```
 
-### Code Splitting
+2.  Open your browser and go to `http://localhost:3000`.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Home Page
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
