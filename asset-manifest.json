@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/automotive-ai-sales-assistant/static/css/main.9fc89a67.css",
-    "main.js": "/automotive-ai-sales-assistant/static/js/main.ac029af0.js",
+    "main.js": "/automotive-ai-sales-assistant/static/js/main.4585bd73.js",
     "static/js/239.f5930840.chunk.js": "/automotive-ai-sales-assistant/static/js/239.f5930840.chunk.js",
     "static/js/977.99934e5b.chunk.js": "/automotive-ai-sales-assistant/static/js/977.99934e5b.chunk.js",
     "static/js/732.a1ca51ab.chunk.js": "/automotive-ai-sales-assistant/static/js/732.a1ca51ab.chunk.js",
@@ -9,13 +9,13 @@
     "static/media/msg-logo.png": "/automotive-ai-sales-assistant/static/media/msg-logo.283fbc882b43fcdffe7b.png",
     "index.html": "/automotive-ai-sales-assistant/index.html",
     "main.9fc89a67.css.map": "/automotive-ai-sales-assistant/static/css/main.9fc89a67.css.map",
-    "main.ac029af0.js.map": "/automotive-ai-sales-assistant/static/js/main.ac029af0.js.map",
+    "main.4585bd73.js.map": "/automotive-ai-sales-assistant/static/js/main.4585bd73.js.map",
     "239.f5930840.chunk.js.map": "/automotive-ai-sales-assistant/static/js/239.f5930840.chunk.js.map",
     "732.a1ca51ab.chunk.js.map": "/automotive-ai-sales-assistant/static/js/732.a1ca51ab.chunk.js.map",
     "453.dbe7d7c9.chunk.js.map": "/automotive-ai-sales-assistant/static/js/453.dbe7d7c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9fc89a67.css",
-    "static/js/main.ac029af0.js"
+    "static/js/main.4585bd73.js"
   ]
 }
