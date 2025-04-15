@@ -11,7 +11,7 @@ import ProposalGenerator from './pages/ProposalGenerator'; // Import the refacto
 
 function App() {
   return (
-    <Router>
+    <Router basename="/automotive-ai-sales-assistant">
       <Routes>
         <Route path="/" element={<Home />} />
         {/* Use the refactored ProposalGenerator component */}

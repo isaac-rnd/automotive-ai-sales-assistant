@@ -67,5 +67,5 @@ The AI Sales Assistant is a web application designed to help sales teams in the 
 ### Home Page
 
 ![alt text](image.png)
-![alt text](image-1.png)
+![alt text](image-3.png)
 ![alt text](image-2.png)
